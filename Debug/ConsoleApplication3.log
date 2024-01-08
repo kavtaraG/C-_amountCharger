@@ -1,0 +1,3 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\User\Desktop\ConsoleApplication3\ConsoleApplication3.cpp(17,26): error C2039: 'deposit': is not a member of 'cashRegister'
+C:\Users\User\Desktop\ConsoleApplication3\Header1.h(4): message : see declaration of 'cashRegister'
